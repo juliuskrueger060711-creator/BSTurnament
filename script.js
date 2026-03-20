@@ -1,6 +1,6 @@
 const STORAGE_KEY = "brawl-stars-turnier-state";
 const POINTS_FOR_WIN = 3;
-const POINTS_FOR_LOSS = 0;
+const POINTS_FOR_LOSS = -1;
 
 const teams = [
   "Max + Jonas",
